@@ -2,3 +2,4 @@ esto esta creado desde github
 y esto lo he escrito desde windows.
 y esto tambien.
 ahora vuelvo a editar desde github.
+ahora desde vscode
